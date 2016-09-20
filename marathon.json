@@ -2,7 +2,7 @@
   "id": "/nginx-erikheppler",
   "cpus": 1,
   "mem": 128,
-  "instances": 1,
+  "instances": 5,
   "container": {
     "docker": {
       "image": "erikheppler/vny2:latest",
