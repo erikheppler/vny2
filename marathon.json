@@ -34,4 +34,5 @@
     "DCOS_SERVICE_SCHEME": "http",
     "DCOS_SERVICE_NAME": "nginx-erikheppler"
   }
+  }
 }
