@@ -10,7 +10,7 @@
         {
           "containerPort": 80,
           "protocol": "tcp",
-          "name": "http"
+          "name": "http",
           "servicePort": 0
         }
       ],
@@ -33,6 +33,5 @@
     "DCOS_SERVICE_PORT_INDEX": "0",
     "DCOS_SERVICE_SCHEME": "http",
     "DCOS_SERVICE_NAME": "nginx-erikheppler"
-  }
   }
 }
